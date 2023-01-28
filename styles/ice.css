@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+body {
+    background-color: pink;
+}
+img {
+    width: 800px;
+    border: 4px;
+}
+h1 {
+    color: antiquewhite;
+}
+p1 {
+    color: antiquewhite;
+}
+p2 {
+    color: aliceblue;
+    font-size: large;
+}
