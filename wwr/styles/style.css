@@ -68,7 +68,7 @@ nav a:hover{
     border-radius: 5px;
 }
 .join{
-    background-color: #396E94;
+    background-color: #E7C24F;
     color: antiquewhite;
     text-decoration: none;
     font-size: 18px;
@@ -88,7 +88,7 @@ color: antiquewhite;
     background-color: #E7C24F;
 }
 .msg{
-    background-color: #396E94;
+    background-color: #d8b54a;
     line-height: 2em;
     padding: 35px;
     grid-column: 6/10;
@@ -162,6 +162,10 @@ footer p a:hover{
 }
 footer .social img{
     padding-top: 15px;
+}
+
+.home-grid{
+    grid-template-columns: repeat(10,1fr);
 }
 .rivers-card{
     margin: 200px 0;
