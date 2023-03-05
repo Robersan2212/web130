@@ -211,6 +211,74 @@ footer .social img{
 main section img {
     box-sizing: border-box;
 }
+.riverh{
+    text-align: center;
+    font-family: 'Roboto', 'Oswald', sans-serif;
+    margin-bottom: 80px;
+}
+.riversn{
+    margin-left: 50px;
+    font-family: 'Roboto', 'Oswald', sans-serif;
+    text-align: center;
+}
+.imgs{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  border: 15px solid #6f7364;
+}
+.paragraphx{
+    font-family: 'Cambria, Cochin, Georgia, Times, 'Times 'New Roman', serif;
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    margin-left: 50px;
+}
+.riverd{
+    margin-left: 50px;
+    font-family: 'Roboto', 'Oswald', sans-serif;
+    text-align: center;
+}
+.salmon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border: 15px solid #6f7364;
+}
+.sriver{
+    font-family: 'Cambria, Cochin, Georgia, Times, 'Times 'New Roman', serif;
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    margin-left: 50px;
+}
+
+.malad{
+    margin-left: 50px;
+    font-family: 'Roboto', 'Oswald', sans-serif;
+    text-align: center;
+}
+.mld{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  border: 15px solid #6f7364;
+}
+.maladp{
+    font-family: 'Cambria, Cochin, Georgia, Times, 'Times 'New Roman', serif;
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    margin-left: 50px;
+}
+/**
+This is a the section for rivers.html
+**/
+
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
